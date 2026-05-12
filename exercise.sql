@@ -1,1 +1,2 @@
 -- Add your SQL here
+SELECT * FROM Employee WHERE SALARY BETWEEN 1100 AND 1850;
